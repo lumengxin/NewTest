@@ -1,0 +1,6 @@
+<div class="container">
+    <text class="title">
+        Hello {{ title }}
+    </text>
+    <text>text</text>
+</div>

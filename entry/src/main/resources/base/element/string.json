@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "entry_MainAbility",
+      "value": "entry_MainAbility"
+    },
+    {
+      "name": "mainability_description",
+      "value": "JS_Splash Screen Ability"
+    },
+    {
+      "name": "splashscreenability_description",
+      "value": "Java_Splash Screen Ability"
+    }
+  ]
+}

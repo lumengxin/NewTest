@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"
+     height="24px"
+     version="1.1"
+     viewBox="0 0 24 24"
+     width="24px"
+     xmlns="http://www.w3.org/2000/svg">
+    <title>ic_phone</title>
+    <g
+        fill="none"
+        fill-rule="evenodd"
+        id="ic_phone"
+        opacity="1.0"
+        stroke="none"
+        stroke-width="1">
+        <rect
+            fill="#9E9E9E"
+            height="24"
+            id="rect_ic"
+            rx="4"
+            width="24"
+            x="0"
+            y="0"></rect>
+    </g>
+</svg>

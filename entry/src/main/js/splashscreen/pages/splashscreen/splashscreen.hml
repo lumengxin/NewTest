@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="image_container">
+        <div class="skip_button_container">
+            <image src="/common/icon_phone.svg" class="icon_landscape"></image>
+            <button class="skip_button" onclick="skipButtonClicked">{{ skip }}</button>
+        </div>
+        <div class="ads_tag_container">
+            <button class="ads_tag">{{ ads }}</button>
+        </div>
+    </div>
+    <div class="brand_container">
+        <div class="icon_info_container">
+            <image src="/common/icon_phone.svg" class="icon"></image>
+            <image src="/common/icon_tv.png" class="icon_tv"></image>
+            <text class="info">{{ app_name }}</text>
+        </div>
+        <div class="copyright_container">
+            <text class="copyright">{{ copyright }}</text>
+        </div>
+    </div>
+</div>
